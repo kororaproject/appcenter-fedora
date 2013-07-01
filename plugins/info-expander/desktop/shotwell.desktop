@@ -1,0 +1,5 @@
+[AppCenterEntry]
+Name=Shotwell
+Comment=Organize your photos
+Exec=shotwell
+Icon=shotwell.svg

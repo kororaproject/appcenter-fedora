@@ -1,0 +1,5 @@
+[AppCenterEntry]
+Name=Adobe Flash Plugin
+Comment=Flash plugin
+Exec=flash-plugin
+Icon=flash.svg

@@ -1,0 +1,10 @@
+[Plugin]
+Module=elementary-home
+Loader=C
+IAge=2
+Name=elementary home page
+Description=Provide an elementary styled home page.
+Authors=Mario Guerriero <mario@elementaryos.org>
+Copyright=Copyright © 2013 Mario Guerriero
+Website=http://launchpad.net/appcenter
+Hidden=true

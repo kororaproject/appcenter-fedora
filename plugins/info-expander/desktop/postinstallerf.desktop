@@ -1,0 +1,6 @@
+[AppCenterEntry]
+Name=PostIntallerF
+Comment=Install all necessary, after to run first time Fedora
+Exec=postinstallerf
+Icon=postinstallerf.svg
+

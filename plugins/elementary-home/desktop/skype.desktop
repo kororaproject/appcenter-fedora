@@ -1,0 +1,5 @@
+[AppCenterEntry]
+Name=Skype VoIP communication
+Comment=Skype let you "phone" over the internet
+Exec=skype
+Icon=skype.svg

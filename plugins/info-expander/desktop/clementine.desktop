@@ -1,0 +1,5 @@
+[AppCenterEntry]
+Name=Clementine
+Comment=Plays music and last.fm streams
+Exec=clementine
+Icon=clementine.svg

@@ -1,0 +1,5 @@
+[AppCenterEntry]
+Name=VLC media player
+Comment=Read, capture, broadcast your multimedia streams
+Exec=vlc
+Icon=vlc.svg

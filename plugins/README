@@ -1,0 +1,12 @@
+Plugins description
+--------------------------------------------------------------
+
+- info-extender: it is used to provide addictional information
+                 for applications which cannot be reached by 
+                 packagekit
+
+- elementary-home: it's just an home page filler to provide an
+                 elementary-style user experience
+
+- ratings-rewview: implements ratings and review from Ubuntu's
+                 servers in AppCenter

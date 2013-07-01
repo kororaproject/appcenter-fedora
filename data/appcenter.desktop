@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=0.1
+Name=AppCenter
+Comment=Find and install apps
+GenericName=application download center
+Exec=appcenter
+Icon=system-software-installer
+Terminal=false
+Categories=GNOME;Utility;
+StartupNotify=true

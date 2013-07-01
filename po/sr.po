@@ -1,0 +1,105 @@
+# Serbian translation for appcenter
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the appcenter package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: appcenter\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-03-11 19:26+0100\n"
+"PO-Revision-Date: 2013-02-25 19:39+0000\n"
+"Last-Translator: Igor <Unknown>\n"
+"Language-Team: Serbian <sr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-03-12 04:55+0000\n"
+"X-Generator: Launchpad (build 16524)\n"
+
+#: /home/mario/elementary/appcenter/po/../src/AppCenter.vala:106
+msgid "Load a package from the given id"
+msgstr "Учитај пакет из задатог IDja"
+
+#: /home/mario/elementary/appcenter/po/../src/AppCenter.vala:107
+msgid "Recreates database files"
+msgstr "Скорашње датотеке из базе података"
+
+#: /home/mario/elementary/appcenter/po/../src/AppCenter.vala:108
+msgid "Use debug verbose mode"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:57
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Toolbar.vala:35
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Toolbar.vala:46
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Toolbar.vala:49
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Toolbar.vala:53
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Toolbar.vala:56
+msgid "Home Page"
+msgstr "Почетна страница"
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:59
+msgid "Categories View"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:61
+msgid "Apps View"
+msgstr "Приказ Апликација"
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:63
+msgid "Apps Info"
+msgstr "Информације о Апликацијама"
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:65
+msgid "Updates View"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:67
+msgid "Error page"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:142
+msgid "Looking for: "
+msgstr "Тражи: "
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:416
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:417
+msgid "Quit"
+msgstr "Изађи"
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:422
+msgid "Software Sources"
+msgstr "Извори програма"
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:423
+msgid "Edit source software"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Buttons.vala:132
+msgid "Install"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Buttons.vala:140
+msgid "Remove"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/Widgets/ProgressInfo.vala:57
+msgid "Installing"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/Widgets/ProgressInfo.vala:59
+msgid "Removing"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/Widgets/PagesView.vala:54
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Toolbar.vala:38
+msgid "Categories"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/Widgets/PagesView.vala:54
+msgid "Browser apps in categories"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Toolbar.vala:86
+msgid "Search Apps"
+msgstr ""

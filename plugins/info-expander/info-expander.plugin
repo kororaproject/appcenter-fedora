@@ -1,0 +1,10 @@
+[Plugin]
+Module=info-expander
+Loader=C
+IAge=2
+Name=Info expander
+Description=Give compatibility for apps which aren't in official repos.
+Authors=Mario Guerriero <mario@elementaryos.org>
+Copyright=Copyright © 2013 Mario Guerriero
+Website=http://launchpad.net/appcenter
+Hidden=true

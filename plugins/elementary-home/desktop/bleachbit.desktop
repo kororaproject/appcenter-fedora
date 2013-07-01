@@ -1,0 +1,7 @@
+[AppCenterEntry]
+Name=BleachBit
+Comment=Free space and maintain privacy
+Exec=bleachbit
+Icon=bleachbit.svg
+
+

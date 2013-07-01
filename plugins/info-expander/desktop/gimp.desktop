@@ -1,0 +1,5 @@
+[AppCenterEntry]
+Name=GNU Image Manipulation Program
+Comment=Create images and edit photographs
+Exec=gimp
+Icon=gimp.svg

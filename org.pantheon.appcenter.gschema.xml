@@ -1,0 +1,43 @@
+<schemalist>
+    <enum id="appcenter-window-states">
+		<value nick="Normal" value="0" />
+		<value nick="Maximized" value="1" />
+		<value nick="Fullscreen" value="2" />
+	</enum>
+	
+	<schema path="/org/pantheon/appcenter/savedstate/" id="org.pantheon.AppCenter.SavedState" gettext-domain="appcenter">
+		<key name="window-state" enum="appcenter-window-states">
+			<default>"Normal"</default>
+			<summary>The saved state of the window.</summary>
+			<description>The saved state of the window.</description>
+		</key>
+		<key name="window-width" type="i">
+			<default>850</default>
+			<summary>The saved width of the window.</summary>
+			<description>The saved width of the window. Must be greater than 700, or it will not take effect.</description>
+		</key>
+		<key name="window-height" type="i">
+			<default>500</default>
+			<summary>The saved height of the window.</summary>
+			<description>The saved height of the window. Must be greater than 400, or it will not take effect.</description>
+		</key>
+	</schema>
+
+    <schema path="/org/pantheon/appcenter/settings/" id="org.pantheon.AppCenter.Settings" gettext-domain="appcenter">
+        <key name="screenshot-width" type="i">
+			<default>350</default>
+			<summary></summary>
+			<description></description>
+		</key>
+		<key name="screenshot-height" type="i">
+			<default>250</default>
+			<summary></summary>
+			<description></description>
+		</key>
+		<key type="as" name="plugins-enabled">
+          <default>['info-expander', 'elementary-home']</default>
+          <summary>Enabled Plugins</summary>
+          <description>Enabled Plugins</description>
+        </key>
+    </schema>
+</schemalist>

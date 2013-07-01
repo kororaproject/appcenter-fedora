@@ -1,0 +1,105 @@
+# Korean translation for appcenter
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the appcenter package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: appcenter\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-03-11 19:26+0100\n"
+"PO-Revision-Date: 2013-03-04 14:43+0000\n"
+"Last-Translator: elementaryart (old) <elementaryart@lists.launchpad.net>\n"
+"Language-Team: Korean <ko@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-03-12 04:55+0000\n"
+"X-Generator: Launchpad (build 16524)\n"
+
+#: /home/mario/elementary/appcenter/po/../src/AppCenter.vala:106
+msgid "Load a package from the given id"
+msgstr "주어진 id에서 패키지를 불러옵니다."
+
+#: /home/mario/elementary/appcenter/po/../src/AppCenter.vala:107
+msgid "Recreates database files"
+msgstr "데이터베이스 파일 재구성"
+
+#: /home/mario/elementary/appcenter/po/../src/AppCenter.vala:108
+msgid "Use debug verbose mode"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:57
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Toolbar.vala:35
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Toolbar.vala:46
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Toolbar.vala:49
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Toolbar.vala:53
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Toolbar.vala:56
+msgid "Home Page"
+msgstr "홈 페이지"
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:59
+msgid "Categories View"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:61
+msgid "Apps View"
+msgstr "프로그램 보기"
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:63
+msgid "Apps Info"
+msgstr "프로그램 정보"
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:65
+msgid "Updates View"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:67
+msgid "Error page"
+msgstr "오류 화면"
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:142
+msgid "Looking for: "
+msgstr "찾는 중: "
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:416
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:417
+msgid "Quit"
+msgstr "끝내기"
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:422
+msgid "Software Sources"
+msgstr "소프트웨어 소스"
+
+#: /home/mario/elementary/appcenter/po/../src/MainWindow.vala:423
+msgid "Edit source software"
+msgstr "소프트웨어 소스 편집하기"
+
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Buttons.vala:132
+msgid "Install"
+msgstr "설치"
+
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Buttons.vala:140
+msgid "Remove"
+msgstr "제거"
+
+#: /home/mario/elementary/appcenter/po/../src/Widgets/ProgressInfo.vala:57
+msgid "Installing"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/Widgets/ProgressInfo.vala:59
+msgid "Removing"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/Widgets/PagesView.vala:54
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Toolbar.vala:38
+msgid "Categories"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/Widgets/PagesView.vala:54
+msgid "Browser apps in categories"
+msgstr ""
+
+#: /home/mario/elementary/appcenter/po/../src/Widgets/Toolbar.vala:86
+msgid "Search Apps"
+msgstr "프로그램 검색"

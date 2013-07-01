@@ -1,0 +1,17 @@
+Dependencies
+------------
+ - libgtk-3.0-dev
+ - libpackagekitglib2-dev
+ - libsqlheavy-dev
+ - libgranite
+
+Testing and installation
+------------------------
+$ mkdir build
+$ cd build/
+$ cmake -DCMAKE_INSTALL_PREFIX=/usr ..
+$ make
+$ sudo make install
+$ appcenter
+
+Thanks!
