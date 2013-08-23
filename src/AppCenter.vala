@@ -61,12 +61,14 @@ namespace AppCenter {
             app_years = "2012-2013";
             app_icon = "system-software-installer";
             app_launcher = Constants.LAUNCHER;
-            application_id = ".com/kuboosoft/appcenter-fedora";
-            main_url = "https://github.com/kuboosoft/appcenter-fedora";
-            bug_url = "https://github.com/kuboosoft/appcenter-fedora/issues";
-            help_url = "https://github.com/kuboosoft/appcenter-fedora/wiki";
-            translate_url = "https://github.com/kuboosoft/appcenter-fedora";
-            about_authors = {"Appcenter Fedora is a fork about Appcenter of Elementary OS for Fedora by David Vásquez <davidjeremias82@gmail.com>", null };
+            application_id = "net.launchpad.appcenter";
+            main_url = "https://launchpad.net/appcenter";
+            bug_url = "https://bugs.launchpad.net/appcenter";
+            help_url = "https://answers.launchpad.net/appcenter";
+            translate_url = "https://translations.launchpad.net/appcenter";
+            about_authors = {"Mario Guerriero <mefrio.g@gmail.com>", null };
+            about_artists = {"Daniel Forè <daniel.p.fore@gmail.com>", null };
+            about_translators = "Launchpad Translators";
             about_license_type = License.GPL_3_0;
 
         }
